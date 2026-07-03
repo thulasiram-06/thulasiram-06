@@ -3,25 +3,25 @@ I'm a Computer Science Engineering student with a strong interest in cybersecuri
 This GitHub documents my learning journey as I work toward a career in defensive security.
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 - Computer Networking
 - Network Security
 - Operating Systems
 - Scripting
 ---
-## 📖 About Me
+##  About Me
 
 
 
-- 🎓 CSE Student at RGUKT RK Valley
+-  CSE Student at RGUKT RK Valley
 
-- 🛡️ Interested in Defensive Security (Blue Team)
+-  Interested in Defensive Security (Blue Team)
 
-- 💻 Learning through practical projects and documentation
+-  Learning through practical projects and documentation
 
-- 📚 Building strong foundations before moving into advanced cybersecurity domains
+-  Building strong foundations before moving into advanced cybersecurity domains
 
-- 🌱 Always learning and improving
+-  Always learning and improving
 
 
 ---
